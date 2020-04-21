@@ -43,5 +43,5 @@
 /dev/block/platform/13500000.dwmmc0/by-name/param       /param          emmc    defaults         recoveryonly
 
 #Auto-generated code by FOTA Portal
-/dev/block/platform/13500000.dwmmc0/by-name/dtb	/dtb	emmc	default	recoveryonly
-/dev/block/platform/13500000.dwmmc0/by-name/dtbo	/dtbo	emmc	default	recoveryonly
+/dev/block/platform/13500000.dwmmc0/by-name/dtb	/dtb	emmc 	default	recoveryonly
+/dev/block/platform/13500000.dwmmc0/by-name/dtbo	/dtbo	emmc 	default	recoveryonly
